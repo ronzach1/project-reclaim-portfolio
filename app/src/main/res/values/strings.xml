@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Project Reclaim</string>
+    <string name="short_form_detection_service_label">Project Reclaim short-form detection</string>
+    <string name="short_form_detection_service_description">Recognizes Instagram Reels and YouTube Shorts. Relevant interface information is inspected transiently for detection; screen content is not stored or transmitted.</string>
+</resources>
